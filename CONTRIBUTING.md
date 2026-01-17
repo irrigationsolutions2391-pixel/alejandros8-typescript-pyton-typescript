@@ -42,14 +42,14 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:stainless-sdks/alejandros8-typescript-pyton-typescript.git
+$ npm install git+ssh://git@github.com:irrigationsolutions2391-pixel/alejandros8-typescript-pyton-typescript.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/stainless-sdks/alejandros8-typescript-pyton-typescript
+$ git clone https://www.github.com/irrigationsolutions2391-pixel/alejandros8-typescript-pyton-typescript
 $ cd alejandros8-typescript-pyton-typescript
 
 # With yarn
