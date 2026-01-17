@@ -1,6 +1,6 @@
 {
   "name": "alejandros8-typescript-pyton",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Alejandros8 Typescript Pyton API",
   "author": "Alejandros8 Typescript Pyton <>",
   "types": "dist/index.d.ts",
